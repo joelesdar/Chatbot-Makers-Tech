@@ -1,0 +1,84 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+
+# React build directory
+build/
+
+# Local environment files
+.env
+.env.local
+.env.development
+.env.production
+.env.test
+
+# MacOS and system files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+*.log.*
+*.out
+*.pid
+
+# Python bytecode files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Pytest cache and coverage
+.pytest_cache/
+htmlcov/
+.coverage
+.tox/
+
+# Database and migrations
+*.sqlite3
+db.sqlite3
+migrations/
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# Editor and IDE specific files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Static files for Django or Flask (if applicable)
+staticfiles/
+media/
+static/
+
+# Ignore compiled files from webpack and other bundlers
+*.cache/
+.cache/
+dist/
+webpack-stats.json
+
+# Ignore temporary files
+*.swp
+*.swo
+*.bak
+*.tmp
+*~
+
+# Ignore coverage reports
+coverage/
+.coverage
+*.cover
+*.py,cover
+
+# Ignore specific application files
+secrets.json
+config.json
