@@ -1,51 +1,51 @@
-Categoria,Nombre,Marca,Precio,Cantidad,Puntuacion,Descripcion
-PC,PC Gamer X100,TechMaster,1200.0,15,9,PC Gamer con procesador Ryzen 7 y tarjeta gráfica RTX 3060.
-PC,PC de Oficina Z200,WorkFast,600.0,20,8,PC compacta para trabajos de oficina con Intel Core i5.
-Laptop,Laptop Ultraliviana U500,SlimTech,900.0,12,9,Laptop ultradelgada con pantalla Full HD de 14 pulgadas.
-Laptop,Laptop Gamer GX200,PlayHard,1500.0,8,10,Laptop gamer con pantalla de 144 Hz y RTX 3070.
-Tablet,Tablet Pro T100,TouchWorld,400.0,30,8,Tablet con pantalla de 10 pulgadas y lápiz táctil.
-Tablet,Tablet Compact T50,MiniTab,250.0,25,7,Tablet compacta de 8 pulgadas para lectura y navegación.
-Smartphone,Smartphone Galaxy Z,TechStar,700.0,50,9,Smartphone con cámara triple y batería de larga duración.
-Smartphone,Smartphone Infinity X,FuturePhone,1000.0,10,10,Smartphone de gama alta con pantalla AMOLED y 5G.
-Sonido,Auriculares Inalámbricos WH-100,SoundFlow,120.0,40,8,Auriculares inalámbricos con cancelación de ruido activa.
-Sonido,Barra de Sonido SB300,AudioMax,200.0,15,9,Barra de sonido con subwoofer para experiencia de cine.
-Tablet,Tablet Modelo 411,FuturePhone,656.87,65,9,Tablet de última generación con características avanzadas.
-Tablet,Tablet Modelo 207,MiniTab,1327.07,94,6,Tablet de última generación con características avanzadas.
-Sonido,Sonido Modelo 609,MiniTab,1019.45,57,6,Sonido de última generación con características avanzadas.
-Accesorios,Accesorios Modelo 534,TechStar,362.47,48,8,Accesorios de última generación con características avanzadas.
-Sonido,Sonido Modelo 403,WorkFast,1351.98,74,8,Sonido de última generación con características avanzadas.
-Smartphone,Smartphone Modelo 816,AudioMax,1471.04,5,6,Smartphone de última generación con características avanzadas.
-Smartphone,Smartphone Modelo 262,FuturePhone,1212.36,14,6,Smartphone de última generación con características avanzadas.
-Accesorios,Accesorios Modelo 545,AudioMax,1040.9,10,7,Accesorios de última generación con características avanzadas.
-Smartphone,Smartphone Modelo 805,AudioMax,895.2,40,10,Smartphone de última generación con características avanzadas.
-PC,PC Modelo 201,AudioMax,656.69,38,10,PC de última generación con características avanzadas.
-PC,PC Modelo 415,PlayHard,940.82,17,6,PC de última generación con características avanzadas.
-PC,PC Modelo 261,AudioMax,1491.63,30,6,PC de última generación con características avanzadas.
-Tablet,Tablet Modelo 149,AudioMax,1270.16,23,6,Tablet de última generación con características avanzadas.
-PC,PC Modelo 483,MiniTab,1843.04,53,10,PC de última generación con características avanzadas.
-PC,PC Modelo 427,TechStar,873.3,24,6,PC de última generación con características avanzadas.
-Tablet,Tablet Modelo 137,SoundFlow,297.01,90,8,Tablet de última generación con características avanzadas.
-Tablet,Tablet Modelo 767,WorkFast,1508.55,94,8,Tablet de última generación con características avanzadas.
-Laptop,Laptop Modelo 545,TechStar,1102.79,86,7,Laptop de última generación con características avanzadas.
-Sonido,Sonido Modelo 504,SoundFlow,769.37,73,9,Sonido de última generación con características avanzadas.
-Laptop,Laptop Modelo 741,WorkFast,303.65,63,10,Laptop de última generación con características avanzadas.
-Accesorios,Accesorios Modelo 348,SoundFlow,1427.2,17,7,Accesorios de última generación con características avanzadas.
-Laptop,Laptop Modelo 580,PlayHard,1521.34,58,7,Laptop de última generación con características avanzadas.
-Gaming,Gaming Modelo 872,TechMaster,670.21,97,6,Gaming de última generación con características avanzadas.
-Gaming,Gaming Modelo 733,TouchWorld,581.76,62,9,Gaming de última generación con características avanzadas.
-Accesorios,Accesorios Modelo 513,TechMaster,715.75,21,8,Accesorios de última generación con características avanzadas.
-Tablet,Tablet Modelo 517,WorkFast,889.43,81,10,Tablet de última generación con características avanzadas.
-PC,PC Modelo 140,FuturePhone,1381.56,36,9,PC de última generación con características avanzadas.
-Sonido,Sonido Modelo 684,TechStar,1441.9,39,9,Sonido de última generación con características avanzadas.
-Accesorios,Accesorios Modelo 828,TouchWorld,992.39,23,10,Accesorios de última generación con características avanzadas.
-PC,PC Modelo 647,MiniTab,633.61,21,7,PC de última generación con características avanzadas.
-Accesorios,Accesorios Modelo 678,PlayHard,1628.84,46,6,Accesorios de última generación con características avanzadas.
-Accesorios,Accesorios Modelo 763,TechMaster,139.54,65,7,Accesorios de última generación con características avanzadas.
-Accesorios,Accesorios Modelo 840,PlayHard,1552.02,42,7,Accesorios de última generación con características avanzadas.
-PC,PC Modelo 479,MiniTab,989.96,61,8,PC de última generación con características avanzadas.
-Sonido,Sonido Modelo 715,TechMaster,1151.2,12,8,Sonido de última generación con características avanzadas.
-PC,PC Modelo 324,MiniTab,440.85,41,9,PC de última generación con características avanzadas.
-Tablet,Tablet Modelo 636,SoundFlow,146.15,76,6,Tablet de última generación con características avanzadas.
-Accesorios,Accesorios Modelo 476,PlayHard,488.67,19,7,Accesorios de última generación con características avanzadas.
-Accesorios,Accesorios Modelo 992,TechMaster,622.14,37,6,Accesorios de última generación con características avanzadas.
-Smartphone,Smartphone Modelo 168,TouchWorld,1518.22,17,10,Smartphone de última generación con características avanzadas.
+Categoria,Nombre,Marca,Precio,Cantidad,Descripcion
+PC,PC Gamer X100,TechMaster,1200.0,15,"PC PC Gamer X100 equipada con procesador de última generación, memoria RAM de alta velocidad y almacenamiento SSD de 512GB. Ideal para edición de video profesional."
+PC,PC de Oficina Z200,WorkFast,600.0,20,"PC PC de Oficina Z200 equipada con procesador de última generación, memoria RAM de alta velocidad y almacenamiento SSD de 512GB. Ideal para juegos de última generación."
+Laptop,Laptop Ultraliviana U500,SlimTech,900.0,12,"Laptop Laptop Ultraliviana U500 con pantalla de 13.3 pulgadas, procesador Intel Core i7, y 16GB de RAM. Diseño ultraligero, perfecto para trabajar en movimiento."
+Laptop,Laptop Gamer GX200,PlayHard,1500.0,4,"Laptop Laptop Gamer GX200 con pantalla de 17.3 pulgadas, procesador AMD Ryzen 7, y 16GB de RAM. Diseño ultraligero, perfecto para trabajar en movimiento."
+Tablet,Tablet Pro T100,TouchWorld,400.0,30,"Tablet Tablet Pro T100 con pantalla táctil de alta resolución de 10.1 pulgadas, procesador Octa-Core y hasta 512GB de almacenamiento interno. Ideal para ver películas en alta calidad."
+Tablet,Tablet Compact T50,MiniTab,250.0,25,"Tablet Tablet Compact T50 con pantalla táctil de alta resolución de 8 pulgadas, procesador Quad-Core y hasta 512GB de almacenamiento interno. Ideal para ver películas en alta calidad."
+Smartphone,Smartphone Galaxy Z,TechStar,700.0,50,Descripción no disponible.
+Smartphone,Smartphone Infinity X,FuturePhone,1000.0,10,Descripción no disponible.
+Sonido,Auriculares Inalámbricos WH-100,SoundFlow,120.0,40,Descripción no disponible.
+Sonido,Barra de Sonido SB300,AudioMax,200.0,15,Descripción no disponible.
+Tablet,Tablet Modelo 411,FuturePhone,656.87,65,"Tablet Tablet Modelo 411 con pantalla táctil de alta resolución de 8 pulgadas, procesador Quad-Core y hasta 256GB de almacenamiento interno. Ideal para ver películas en alta calidad."
+Tablet,Tablet Modelo 207,MiniTab,1327.07,94,"Tablet Tablet Modelo 207 con pantalla táctil de alta resolución de 12 pulgadas, procesador Quad-Core y hasta 256GB de almacenamiento interno. Ideal para leer libros electrónicos."
+Sonido,Sonido Modelo 609,MiniTab,1019.45,57,Descripción no disponible.
+Accesorios,Accesorios Modelo 534,TechStar,362.47,48,Descripción no disponible.
+Sonido,Sonido Modelo 403,WorkFast,1351.98,74,Descripción no disponible.
+Smartphone,Smartphone Modelo 816,AudioMax,1471.04,5,Descripción no disponible.
+Smartphone,Smartphone Modelo 262,FuturePhone,1212.36,14,Descripción no disponible.
+Accesorios,Accesorios Modelo 545,AudioMax,1040.9,10,Descripción no disponible.
+Smartphone,Smartphone Modelo 805,AudioMax,895.2,40,Descripción no disponible.
+PC,PC Modelo 201,AudioMax,656.69,38,"PC PC Modelo 201 equipada con procesador de última generación, memoria RAM de alta velocidad y almacenamiento SSD de 2048GB. Ideal para trabajos de diseño gráfico."
+PC,PC Modelo 415,PlayHard,940.82,17,"PC PC Modelo 415 equipada con procesador de última generación, memoria RAM de alta velocidad y almacenamiento SSD de 512GB. Ideal para trabajos de diseño gráfico."
+PC,PC Modelo 261,AudioMax,1491.63,30,"PC PC Modelo 261 equipada con procesador de última generación, memoria RAM de alta velocidad y almacenamiento SSD de 512GB. Ideal para edición de video profesional."
+Tablet,Tablet Modelo 149,AudioMax,1270.16,23,"Tablet Tablet Modelo 149 con pantalla táctil de alta resolución de 8 pulgadas, procesador Octa-Core y hasta 256GB de almacenamiento interno. Ideal para ver películas en alta calidad."
+PC,PC Modelo 483,MiniTab,1843.04,53,"PC PC Modelo 483 equipada con procesador de última generación, memoria RAM de alta velocidad y almacenamiento SSD de 1024GB. Ideal para edición de video profesional."
+PC,PC Modelo 427,TechStar,873.3,24,"PC PC Modelo 427 equipada con procesador de última generación, memoria RAM de alta velocidad y almacenamiento SSD de 2048GB. Ideal para trabajos de diseño gráfico."
+Tablet,Tablet Modelo 137,SoundFlow,297.01,90,"Tablet Tablet Modelo 137 con pantalla táctil de alta resolución de 10.1 pulgadas, procesador Octa-Core y hasta 256GB de almacenamiento interno. Ideal para leer libros electrónicos."
+Tablet,Tablet Modelo 767,WorkFast,1508.55,94,"Tablet Tablet Modelo 767 con pantalla táctil de alta resolución de 12 pulgadas, procesador Octa-Core y hasta 512GB de almacenamiento interno. Ideal para navegar por la web."
+Laptop,Laptop Modelo 545,TechStar,1102.79,86,"Laptop Laptop Modelo 545 con pantalla de 13.3 pulgadas, procesador Intel Core i7, y 16GB de RAM. Diseño ultraligero, perfecto para estudiantes."
+Sonido,Sonido Modelo 504,SoundFlow,769.37,73,Descripción no disponible.
+Laptop,Laptop Modelo 741,WorkFast,303.65,63,"Laptop Laptop Modelo 741 con pantalla de 13.3 pulgadas, procesador AMD Ryzen 7, y 32GB de RAM. Diseño ultraligero, perfecto para profesionales creativos."
+Accesorios,Accesorios Modelo 348,SoundFlow,1427.2,17,Descripción no disponible.
+Laptop,Laptop Modelo 580,PlayHard,1521.34,58,"Laptop Laptop Modelo 580 con pantalla de 13.3 pulgadas, procesador Intel Core i7, y 32GB de RAM. Diseño ultraligero, perfecto para estudiantes."
+Gaming,Gaming Modelo 872,TechMaster,670.21,97,Descripción no disponible.
+Gaming,Gaming Modelo 733,TouchWorld,581.76,62,Descripción no disponible.
+Accesorios,Accesorios Modelo 513,TechMaster,715.75,21,Descripción no disponible.
+Tablet,Tablet Modelo 517,WorkFast,889.43,81,"Tablet Tablet Modelo 517 con pantalla táctil de alta resolución de 12 pulgadas, procesador Quad-Core y hasta 512GB de almacenamiento interno. Ideal para navegar por la web."
+PC,PC Modelo 140,FuturePhone,1381.56,36,"PC PC Modelo 140 equipada con procesador de última generación, memoria RAM de alta velocidad y almacenamiento SSD de 512GB. Ideal para edición de video profesional."
+Sonido,Sonido Modelo 684,TechStar,1441.9,39,Descripción no disponible.
+Accesorios,Accesorios Modelo 828,TouchWorld,992.39,23,Descripción no disponible.
+PC,PC Modelo 647,MiniTab,633.61,21,"PC PC Modelo 647 equipada con procesador de última generación, memoria RAM de alta velocidad y almacenamiento SSD de 1024GB. Ideal para edición de video profesional."
+Accesorios,Accesorios Modelo 678,PlayHard,1628.84,46,Descripción no disponible.
+Accesorios,Accesorios Modelo 763,TechMaster,139.54,65,Descripción no disponible.
+Accesorios,Accesorios Modelo 840,PlayHard,1552.02,42,Descripción no disponible.
+PC,PC Modelo 479,MiniTab,989.96,61,"PC PC Modelo 479 equipada con procesador de última generación, memoria RAM de alta velocidad y almacenamiento SSD de 1024GB. Ideal para edición de video profesional."
+Sonido,Sonido Modelo 715,TechMaster,1151.2,12,Descripción no disponible.
+PC,PC Modelo 324,MiniTab,440.85,41,"PC PC Modelo 324 equipada con procesador de última generación, memoria RAM de alta velocidad y almacenamiento SSD de 2048GB. Ideal para trabajos de diseño gráfico."
+Tablet,Tablet Modelo 636,SoundFlow,146.15,76,"Tablet Tablet Modelo 636 con pantalla táctil de alta resolución de 10.1 pulgadas, procesador Quad-Core y hasta 512GB de almacenamiento interno. Ideal para navegar por la web."
+Accesorios,Accesorios Modelo 476,PlayHard,488.67,19,Descripción no disponible.
+Accesorios,Accesorios Modelo 992,TechMaster,622.14,37,Descripción no disponible.
+Smartphone,Smartphone Modelo 168,TouchWorld,1518.22,17,Descripción no disponible.
