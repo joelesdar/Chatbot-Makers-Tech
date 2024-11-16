@@ -49,7 +49,7 @@ def generar_recomendaciones_personalizadas(intereses, rango_precios, caracterist
 
 # Interfaz Streamlit
 st.title("Makers Tech")
-st.subheader("Bienvenido al sistema de la tienda")
+st.subheader("Bienvenido a tu asistente virtual de la tienda")
 
 # Login simulado
 if "user_id" not in st.session_state:
@@ -82,10 +82,11 @@ else:
 
     opcion = st.sidebar.radio("Selecciona una opción:", opciones)
 
+    # Botón de cerrar sesión
     if st.sidebar.button("Cerrar sesión", key="logout"):
-        st.session_state.user_id = None
-        st.session_state.role = None
-        st.experimental_rerun()
+        st.session_state.clear()  # Reinicia todo el estado de la sesión
+        st.query_params.clear()  # Limpia los parámetros de consulta
+        st.success("Has cerrado sesión. Recarga la página si es necesario.")
 
     # Opción 1: Asesoría de productos
     if opcion == "Asesoría de productos":
